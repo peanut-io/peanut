@@ -1,0 +1,5 @@
+TestConfig:
+  value1: 1
+  value2: "a"
+  value3: true
+  value4: 3.14
